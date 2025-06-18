@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "uk.orth.push-release-30:/raw/firebase_common_keep.xml",
+        "source": "uk.orth.push-jetified-firebase-common-21.0.0-19:/raw/firebase_common_keep.xml"
+    }
+]

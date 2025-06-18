@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uk.orth.push" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+6
+7    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+7-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:3:5-76
+7-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:3:22-74
+8
+9    <application>
+9-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:4:5-20:19
+10        <receiver
+10-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:5:9-12:20
+11            android:name="uk.orth.push.FirebaseMessagingReceiver"
+11-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:6:13-54
+12            android:exported="true"
+12-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:7:13-36
+13            android:permission="com.google.android.c2dm.permission.SEND" >
+13-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:8:13-73
+14            <intent-filter>
+14-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:9:13-11:29
+15                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+15-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:10:17-81
+15-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:10:25-78
+16            </intent-filter>
+17        </receiver>
+18
+19        <service
+19-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:13:9-19:19
+20            android:name="uk.orth.push.MessagingService"
+20-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:14:13-45
+21            android:exported="false" >
+21-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:15:13-37
+22            <intent-filter>
+22-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:16:13-18:29
+23                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+23-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:17:17-78
+23-->C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\AndroidManifest.xml:17:25-75
+24            </intent-filter>
+25        </service>
+26    </application>
+27
+28</manifest>

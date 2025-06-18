@@ -1,0 +1,21 @@
+{
+    "indexes": [
+      {
+        "collectionGroup": "booking_service",
+        "queryScope": "COLLECTION",
+        "fields": [
+          { "fieldPath": "userId", "order": "ASCENDING" },
+          { "fieldPath": "status", "arrayConfig": "CONTAINS" },
+          { "fieldPath": "createdAt", "order": "DESCENDING" }
+        ]
+      },
+      {
+        "collectionGroup": "booking_service",
+        "queryScope": "COLLECTION",
+        "fields": [
+          { "fieldPath": "userId", "order": "ASCENDING" },
+          { "fieldPath": "createdAt", "order": "DESCENDING" }
+        ]
+      }
+    ]
+  }

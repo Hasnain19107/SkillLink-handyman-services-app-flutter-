@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "uk.orth.push-release-30:/layout/ime_secondary_split_test_activity.xml",
+        "source": "uk.orth.push-core-1.13.1-16:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "uk.orth.push-release-30:/layout/notification_action_tombstone.xml",
+        "source": "uk.orth.push-core-1.13.1-16:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "uk.orth.push-release-30:/layout/custom_dialog.xml",
+        "source": "uk.orth.push-core-1.13.1-16:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "uk.orth.push-release-30:/layout/notification_template_icon_group.xml",
+        "source": "uk.orth.push-core-1.13.1-16:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "uk.orth.push-release-30:/layout/notification_template_part_chronometer.xml",
+        "source": "uk.orth.push-core-1.13.1-16:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "uk.orth.push-release-30:/layout/notification_template_custom_big.xml",
+        "source": "uk.orth.push-core-1.13.1-16:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "uk.orth.push-release-30:/layout/notification_template_part_time.xml",
+        "source": "uk.orth.push-core-1.13.1-16:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "uk.orth.push-release-30:/layout/ime_base_split_test_activity.xml",
+        "source": "uk.orth.push-core-1.13.1-16:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "uk.orth.push-release-30:/layout/notification_action.xml",
+        "source": "uk.orth.push-core-1.13.1-16:/layout/notification_action.xml"
+    }
+]

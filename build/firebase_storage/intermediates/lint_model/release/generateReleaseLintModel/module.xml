@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-12.4.4\android"
+    name=":firebase_storage"
+    type="LIBRARY"
+    maven="io.flutter.plugins.firebase.storage:firebase_storage:"
+    agpVersion="8.3.0"
+    buildFolder="E:\New folder (4)\hunarmand\build\firebase_storage"
+    bootClassPath="C:\Users\malya\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\malya\AppData\Local\Android\sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

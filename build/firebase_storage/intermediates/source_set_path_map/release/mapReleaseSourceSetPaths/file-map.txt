@@ -1,0 +1,31 @@
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.4.0-0 C:\Users\malya\.gradle\caches\transforms-3\00c0923460bb6bd97ff79734cbe8d157\transformed\jetified-annotation-experimental-1.4.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-core-ktx-1.13.1-1 C:\Users\malya\.gradle\caches\transforms-3\074449501fc26f6da445ec5194b5fd4d\transformed\jetified-core-ktx-1.13.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-core-runtime-2.2.0-2 C:\Users\malya\.gradle\caches\transforms-3\16b81e5f3a6647b31abf4a67ff4c631f\transformed\core-runtime-2.2.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-startup-runtime-1.1.1-3 C:\Users\malya\.gradle\caches\transforms-3\334ed46d05deec6940014780d67c3b9c\transformed\jetified-startup-runtime-1.1.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-profileinstaller-1.3.1-4 C:\Users\malya\.gradle\caches\transforms-3\3d33730c1ffd173b6430dc49854e46ad\transformed\jetified-profileinstaller-1.3.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-activity-1.8.1-5 C:\Users\malya\.gradle\caches\transforms-3\499f147fb6643207267adde64f388339\transformed\jetified-activity-1.8.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-lifecycle-livedata-2.7.0-6 C:\Users\malya\.gradle\caches\transforms-3\49e5eaddcf825cb00c69a88ed8001aed\transformed\lifecycle-livedata-2.7.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-lifecycle-process-2.7.0-7 C:\Users\malya\.gradle\caches\transforms-3\5f3bbcc6f6434f4fc5314434bdfdd464\transformed\jetified-lifecycle-process-2.7.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-lifecycle-viewmodel-2.7.0-8 C:\Users\malya\.gradle\caches\transforms-3\6c72ee71566b5ca83c077142879e4af8\transformed\lifecycle-viewmodel-2.7.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-lifecycle-runtime-2.7.0-9 C:\Users\malya\.gradle\caches\transforms-3\89443a5ce2f21df2e2e0dc100623e038\transformed\lifecycle-runtime-2.7.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-savedstate-1.2.1-10 C:\Users\malya\.gradle\caches\transforms-3\8c8a00b6bee9e6c49f3d859ad1bcee98\transformed\jetified-savedstate-1.2.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.3.0-11 C:\Users\malya\.gradle\caches\transforms-3\98afe612f8154c82a8ef1a650b5bcf63\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-lifecycle-livedata-core-ktx-2.7.0-12 C:\Users\malya\.gradle\caches\transforms-3\a42de2be9e5a42701d1d0ebe7d9677d6\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.13.1-13 C:\Users\malya\.gradle\caches\transforms-3\acee2cdb2f0a00177bfd5c94faec4f15\transformed\core-1.13.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-core-1.0.0-14 C:\Users\malya\.gradle\caches\transforms-3\afe6cf43a783d21c69257ebf5eeb5338\transformed\jetified-core-1.0.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-lifecycle-viewmodel-savedstate-2.7.0-15 C:\Users\malya\.gradle\caches\transforms-3\b4c0a6296668d543792f2c36c4acccce\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-21.0.0-16 C:\Users\malya\.gradle\caches\transforms-3\bba75af9fa942a856a75150a3b84e8f5\transformed\jetified-firebase-common-21.0.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-fragment-1.7.1-17 C:\Users\malya\.gradle\caches\transforms-3\d355f1d6412db10687433d302034223e\transformed\fragment-1.7.1\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.2.0-18 C:\Users\malya\.gradle\caches\transforms-3\ddb69c0102002a3fb708d9faab9e63d3\transformed\jetified-window-java-1.2.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.2.0-19 C:\Users\malya\.gradle\caches\transforms-3\e04716359397af4218d43ef365afcbd2\transformed\jetified-window-1.2.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-lifecycle-livedata-core-2.7.0-20 C:\Users\malya\.gradle\caches\transforms-3\e5885b96238078d00a0da62bfe599ee9\transformed\lifecycle-livedata-core-2.7.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.1.0-21 C:\Users\malya\.gradle\caches\transforms-3\fa3a40eeb0e42701191d1348f9d00beb\transformed\jetified-play-services-base-18.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-tracing-1.2.0-22 C:\Users\malya\.gradle\caches\transforms-3\fef136c23bf5fce15060a25d5a06fccb\transformed\jetified-tracing-1.2.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-main-23 C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-12.4.4\android\src\main\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-24 C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-12.4.4\android\src\release\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-25 E:\New folder (4)\hunarmand\build\firebase_core\intermediates\packaged_res\release\packageReleaseResources
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-26 E:\New folder (4)\hunarmand\build\firebase_storage\generated\res\pngs\release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-27 E:\New folder (4)\hunarmand\build\firebase_storage\generated\res\resValues\release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-28 E:\New folder (4)\hunarmand\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-29 E:\New folder (4)\hunarmand\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-release-30 E:\New folder (4)\hunarmand\build\firebase_storage\intermediates\merged_res\release\mergeReleaseResources

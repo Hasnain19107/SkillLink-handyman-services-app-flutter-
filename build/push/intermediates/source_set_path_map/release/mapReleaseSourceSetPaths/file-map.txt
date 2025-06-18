@@ -1,0 +1,32 @@
+uk.orth.push-jetified-annotation-experimental-1.4.0-0 C:\Users\malya\.gradle\caches\transforms-3\00c0923460bb6bd97ff79734cbe8d157\transformed\jetified-annotation-experimental-1.4.0\res
+uk.orth.push-jetified-play-services-base-18.0.1-1 C:\Users\malya\.gradle\caches\transforms-3\04465272d1e559f3d04fa0cb26f28712\transformed\jetified-play-services-base-18.0.1\res
+uk.orth.push-jetified-core-ktx-1.13.1-2 C:\Users\malya\.gradle\caches\transforms-3\074449501fc26f6da445ec5194b5fd4d\transformed\jetified-core-ktx-1.13.1\res
+uk.orth.push-core-runtime-2.2.0-3 C:\Users\malya\.gradle\caches\transforms-3\16b81e5f3a6647b31abf4a67ff4c631f\transformed\core-runtime-2.2.0\res
+uk.orth.push-jetified-startup-runtime-1.1.1-4 C:\Users\malya\.gradle\caches\transforms-3\334ed46d05deec6940014780d67c3b9c\transformed\jetified-startup-runtime-1.1.1\res
+uk.orth.push-localbroadcastmanager-1.1.0-5 C:\Users\malya\.gradle\caches\transforms-3\353c194a92e34344cff200b8550f1b4a\transformed\localbroadcastmanager-1.1.0\res
+uk.orth.push-jetified-profileinstaller-1.3.1-6 C:\Users\malya\.gradle\caches\transforms-3\3d33730c1ffd173b6430dc49854e46ad\transformed\jetified-profileinstaller-1.3.1\res
+uk.orth.push-jetified-activity-1.8.1-7 C:\Users\malya\.gradle\caches\transforms-3\499f147fb6643207267adde64f388339\transformed\jetified-activity-1.8.1\res
+uk.orth.push-lifecycle-livedata-2.7.0-8 C:\Users\malya\.gradle\caches\transforms-3\49e5eaddcf825cb00c69a88ed8001aed\transformed\lifecycle-livedata-2.7.0\res
+uk.orth.push-jetified-lifecycle-process-2.7.0-9 C:\Users\malya\.gradle\caches\transforms-3\5f3bbcc6f6434f4fc5314434bdfdd464\transformed\jetified-lifecycle-process-2.7.0\res
+uk.orth.push-lifecycle-viewmodel-2.7.0-10 C:\Users\malya\.gradle\caches\transforms-3\6c72ee71566b5ca83c077142879e4af8\transformed\lifecycle-viewmodel-2.7.0\res
+uk.orth.push-lifecycle-runtime-2.7.0-11 C:\Users\malya\.gradle\caches\transforms-3\89443a5ce2f21df2e2e0dc100623e038\transformed\lifecycle-runtime-2.7.0\res
+uk.orth.push-jetified-savedstate-1.2.1-12 C:\Users\malya\.gradle\caches\transforms-3\8c8a00b6bee9e6c49f3d859ad1bcee98\transformed\jetified-savedstate-1.2.1\res
+uk.orth.push-jetified-play-services-basement-18.3.0-13 C:\Users\malya\.gradle\caches\transforms-3\98afe612f8154c82a8ef1a650b5bcf63\transformed\jetified-play-services-basement-18.3.0\res
+uk.orth.push-jetified-firebase-messaging-24.1.0-14 C:\Users\malya\.gradle\caches\transforms-3\9d4de0d920ef91bc33af726d289f3f18\transformed\jetified-firebase-messaging-24.1.0\res
+uk.orth.push-jetified-lifecycle-livedata-core-ktx-2.7.0-15 C:\Users\malya\.gradle\caches\transforms-3\a42de2be9e5a42701d1d0ebe7d9677d6\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+uk.orth.push-core-1.13.1-16 C:\Users\malya\.gradle\caches\transforms-3\acee2cdb2f0a00177bfd5c94faec4f15\transformed\core-1.13.1\res
+uk.orth.push-jetified-core-1.0.0-17 C:\Users\malya\.gradle\caches\transforms-3\afe6cf43a783d21c69257ebf5eeb5338\transformed\jetified-core-1.0.0\res
+uk.orth.push-jetified-lifecycle-viewmodel-savedstate-2.7.0-18 C:\Users\malya\.gradle\caches\transforms-3\b4c0a6296668d543792f2c36c4acccce\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+uk.orth.push-jetified-firebase-common-21.0.0-19 C:\Users\malya\.gradle\caches\transforms-3\bba75af9fa942a856a75150a3b84e8f5\transformed\jetified-firebase-common-21.0.0\res
+uk.orth.push-fragment-1.7.1-20 C:\Users\malya\.gradle\caches\transforms-3\d355f1d6412db10687433d302034223e\transformed\fragment-1.7.1\res
+uk.orth.push-jetified-window-java-1.2.0-21 C:\Users\malya\.gradle\caches\transforms-3\ddb69c0102002a3fb708d9faab9e63d3\transformed\jetified-window-java-1.2.0\res
+uk.orth.push-jetified-window-1.2.0-22 C:\Users\malya\.gradle\caches\transforms-3\e04716359397af4218d43ef365afcbd2\transformed\jetified-window-1.2.0\res
+uk.orth.push-lifecycle-livedata-core-2.7.0-23 C:\Users\malya\.gradle\caches\transforms-3\e5885b96238078d00a0da62bfe599ee9\transformed\lifecycle-livedata-core-2.7.0\res
+uk.orth.push-jetified-tracing-1.2.0-24 C:\Users\malya\.gradle\caches\transforms-3\fef136c23bf5fce15060a25d5a06fccb\transformed\jetified-tracing-1.2.0\res
+uk.orth.push-main-25 C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\main\res
+uk.orth.push-release-26 C:\Users\malya\AppData\Local\Pub\Cache\hosted\pub.dev\push-3.3.3\android\src\release\res
+uk.orth.push-pngs-27 E:\New folder (4)\hunarmand\build\push\generated\res\pngs\release
+uk.orth.push-resValues-28 E:\New folder (4)\hunarmand\build\push\generated\res\resValues\release
+uk.orth.push-mergeReleaseResources-29 E:\New folder (4)\hunarmand\build\push\intermediates\incremental\release\mergeReleaseResources\merged.dir
+uk.orth.push-mergeReleaseResources-30 E:\New folder (4)\hunarmand\build\push\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+uk.orth.push-release-31 E:\New folder (4)\hunarmand\build\push\intermediates\merged_res\release\mergeReleaseResources

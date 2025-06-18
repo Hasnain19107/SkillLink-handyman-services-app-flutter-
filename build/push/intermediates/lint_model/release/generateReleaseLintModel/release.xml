@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="uk.orth.push"
+    minSdkVersion="16"
+    targetSdkVersion="16"
+    mergedManifest="E:\New folder (4)\hunarmand\build\push\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml"
+    manifestMergeReport="E:\New folder (4)\hunarmand\build\push\outputs\logs\manifest-merger-release-report.txt"
+    proguardFiles="E:\New folder (4)\hunarmand\build\push\intermediates\default_proguard_files\global\proguard-android.txt-8.3.0"
+    partialResultsDir="E:\New folder (4)\hunarmand\build\push\intermediates\lint_partial_results\release\lintAnalyzeRelease\out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin;src\release\java;src\release\kotlin"
+        resDirectories="src\main\res;src\release\res"
+        assetsDirectories="src\main\assets;src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="E:\New folder (4)\hunarmand\build\push\intermediates\javac\release\compileReleaseJavaWithJavac\classes;E:\New folder (4)\hunarmand\build\push\tmp\kotlin-classes\release;E:\New folder (4)\hunarmand\build\push\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar"
+      type="MAIN"
+      applicationId="uk.orth.push"
+      generatedSourceFolders="E:\New folder (4)\hunarmand\build\push\generated\ap_generated_sources\release\out"
+      generatedResourceFolders="E:\New folder (4)\hunarmand\build\push\generated\res\resValues\release"
+      desugaredMethodsFiles="C:\Users\malya\.gradle\caches\transforms-3\9615edf68864b6e72d742f15fe315bfe\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>
